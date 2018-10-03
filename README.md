@@ -6,3 +6,4 @@ Tech Stack
 * Spring Framework
 * Gradle
 * VueJS
+* Jackson
