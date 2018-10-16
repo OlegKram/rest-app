@@ -4,7 +4,6 @@ function getIndex(list, id) {
             return i;
         }
     }
-
     return -1;
 }
 
