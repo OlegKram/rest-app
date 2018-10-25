@@ -1,7 +1,7 @@
 <template>
     <div>
     <div v-if="!profile">Authorization required
-        <a href="/login">Google</a>
+        <a href="/login">Login with Google</a>
     </div>
     <div v-else>
         <div>{{profile.name}}&nbsp;<a href="/logout">Exit</a></div>
