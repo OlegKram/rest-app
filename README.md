@@ -2,7 +2,7 @@
 Web application based on REST architecture
 
 # Functionality
-* Login/Logout
+* Login/Logout with Google
 * Add note
 * Edit note
 * Delete note
@@ -11,6 +11,7 @@ Web application based on REST architecture
 * Java
 * JavaScript
 * Spring Framework
+* PostgreSQL
 * Vuetify
 * Gradle
 * VueJS
