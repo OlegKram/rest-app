@@ -1,7 +1,13 @@
 # To Do List
 Web application based on REST architecture
 
-Tech Stack
+# Functionality
+* Login/Logout
+* Add note
+* Edit note
+* Delete note
+
+# Tech Stack
 * Java
 * JavaScript
 * Spring Framework
