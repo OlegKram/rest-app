@@ -9,10 +9,9 @@ Web application based on REST architecture
 
 # Tech Stack
 * Java
+* VueJS
+* Gradle
+* Vuetify
+* PostgreSQL
 * JavaScript
 * Spring Framework
-* PostgreSQL
-* Vuetify
-* Gradle
-* VueJS
-* Jackson
